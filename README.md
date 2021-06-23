@@ -16,7 +16,7 @@
 | &#9744; |  20  | [valid parentheses](https://leetcode.com/problems/valid-parentheses/) |    **Easy**    |                           **nill**                           |
 | &#9744; | 560  | [subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/) |   **Medium**   |                           **nill**                           |
 | &#9744; | 380  | [insert delete getrandom o1](https://leetcode.com/problems/insert-delete-getrandom-o1/) |   **Medium**   |                           **nill**                           |
-| &#9744; |  1   |      [two sum](https://leetcode.com/problems/two-sum/)       |    **Easy**    | [Source Code](/LeetCodeTraining/LeetCodeTraining/twoSum.cpp) |
+| &#9745; |  1   |      [two sum](https://leetcode.com/problems/two-sum/)       |    **Easy**    | [Source Code](/LeetCodeTraining/LeetCodeTraining/twoSum.cpp) |
 | &#9744; |  23  | [merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/) |    **Hard**    |                           **nill**                           |
 | &#9744; | 567  | [permutation in string](https://leetcode.com/problems/permutation-in-string/) |   **Medium**   |                           **nill**                           |
 | &#9744; |  56  | [merge intervals](https://leetcode.com/problems/merge-intervals/) |   **Medium**   |                           **nill**                           |
