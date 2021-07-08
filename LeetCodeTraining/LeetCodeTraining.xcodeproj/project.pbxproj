@@ -11,6 +11,7 @@
 		24580CA62683CB1B0065BA52 /* twoSum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24580CA42683CB1B0065BA52 /* twoSum.cpp */; };
 		24580CA92697429F0065BA52 /* summaryRanges.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24580CA72697429F0065BA52 /* summaryRanges.cpp */; };
 		24580CAC269754B70065BA52 /* stringCompression.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24580CAA269754B70065BA52 /* stringCompression.cpp */; };
+		24580CAE26975C5B0065BA52 /* reverseLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24580CAD26975C5B0065BA52 /* reverseLinkedList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,7 @@
 		24580CA42683CB1B0065BA52 /* twoSum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = twoSum.cpp; sourceTree = "<group>"; };
 		24580CA72697429F0065BA52 /* summaryRanges.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = summaryRanges.cpp; sourceTree = "<group>"; };
 		24580CAA269754B70065BA52 /* stringCompression.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = stringCompression.cpp; sourceTree = "<group>"; };
+		24580CAD26975C5B0065BA52 /* reverseLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = reverseLinkedList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				24580CA42683CB1B0065BA52 /* twoSum.cpp */,
 				24580CA72697429F0065BA52 /* summaryRanges.cpp */,
 				24580CAA269754B70065BA52 /* stringCompression.cpp */,
+				24580CAD26975C5B0065BA52 /* reverseLinkedList.swift */,
 			);
 			path = LeetCodeTraining;
 			sourceTree = "<group>";
@@ -130,6 +133,7 @@
 			files = (
 				24580CA92697429F0065BA52 /* summaryRanges.cpp in Sources */,
 				24580CA62683CB1B0065BA52 /* twoSum.cpp in Sources */,
+				24580CAE26975C5B0065BA52 /* reverseLinkedList.swift in Sources */,
 				24580C9C2683C9BB0065BA52 /* main.cpp in Sources */,
 				24580CAC269754B70065BA52 /* stringCompression.cpp in Sources */,
 			);
