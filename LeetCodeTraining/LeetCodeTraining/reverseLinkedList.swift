@@ -11,24 +11,24 @@ public class ListNode {
 
 
 
-class Solution {
-    func reverseList(_ head: ListNode?) -> ListNode? {
+
+func reverseList(_ head: ListNode?) -> ListNode? {
 //         1 -> 2 -> 3 -> 4
-        
+    
 //         1 <- 2 <- 3 <- 4
-        
+    
 //         4 -> 3 -> 2 -> 1
-        
-        var previouseNode: ListNode? = nil
-        var currentNode: ListNode? = head
-        
-        while (currentNode != nil) {
-            var nextNode: ListNode? = currentNode!.next
-            currentNode!.next = previouseNode
-            previouseNode = currentNode
-            currentNode = nextNode
-        }
-        
-        return previouseNode
+    
+    var previouseNode: ListNode? = nil
+    var currentNode: ListNode? = head
+    
+    while (currentNode != nil) {
+        var nextNode: ListNode? = currentNode!.next
+        currentNode!.next = previouseNode
+        previouseNode = currentNode
+        currentNode = nextNode
     }
+    
+    return previouseNode
 }
+
