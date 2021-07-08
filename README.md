@@ -13,7 +13,7 @@
 | &#9745; | 125  | [valid palindrome](https://leetcode.com/problems/valid-palindrome/) |    **Easy**    | [Source Code](/LeetCodeTraining/LeetCodeTraining/validPalindrome.swift) | Swift |
 | &#9744; |  49  | [group anagrams](https://leetcode.com/problems/group-anagrams/) |   **Medium**   |                           **nill**                           |       |
 | &#9744; | 1493 | [longest subarray](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) |   **Medium**   |                           **nill**                           |       |
-| &#9744; |  20  | [valid parentheses](https://leetcode.com/problems/valid-parentheses/) |    **Easy**    |                           **nill**                           |       |
+| &#9745; |  20  | [valid parentheses](https://leetcode.com/problems/valid-parentheses/) |    **Easy**    | [Source Code](/LeetCodeTraining/LeetCodeTraining/validParentheses.cpp) | с++   |
 | &#9744; | 560  | [subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/) |   **Medium**   |                           **nill**                           |       |
 | &#9744; | 380  | [insert delete getrandom o1](https://leetcode.com/problems/insert-delete-getrandom-o1/) |   **Medium**   |                           **nill**                           |       |
 | &#9745; |  1   |      [two sum](https://leetcode.com/problems/two-sum/)       |    **Easy**    | [Source Code](/LeetCodeTraining/LeetCodeTraining/twoSum.cpp) | c++   |
