@@ -13,6 +13,7 @@
 		24580CAC269754B70065BA52 /* stringCompression.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24580CAA269754B70065BA52 /* stringCompression.cpp */; };
 		24580CAE26975C5B0065BA52 /* reverseLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24580CAD26975C5B0065BA52 /* reverseLinkedList.swift */; };
 		24580CB02697672E0065BA52 /* generateParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24580CAF2697672E0065BA52 /* generateParentheses.swift */; };
+		24580CB226976D800065BA52 /* moveZeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24580CB126976D800065BA52 /* moveZeroes.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +36,7 @@
 		24580CAA269754B70065BA52 /* stringCompression.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = stringCompression.cpp; sourceTree = "<group>"; };
 		24580CAD26975C5B0065BA52 /* reverseLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = reverseLinkedList.swift; sourceTree = "<group>"; };
 		24580CAF2697672E0065BA52 /* generateParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = generateParentheses.swift; sourceTree = "<group>"; };
+		24580CB126976D800065BA52 /* moveZeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = moveZeroes.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				24580CAA269754B70065BA52 /* stringCompression.cpp */,
 				24580CAD26975C5B0065BA52 /* reverseLinkedList.swift */,
 				24580CAF2697672E0065BA52 /* generateParentheses.swift */,
+				24580CB126976D800065BA52 /* moveZeroes.swift */,
 			);
 			path = LeetCodeTraining;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 				24580C9C2683C9BB0065BA52 /* main.cpp in Sources */,
 				24580CAC269754B70065BA52 /* stringCompression.cpp in Sources */,
 				24580CB02697672E0065BA52 /* generateParentheses.swift in Sources */,
+				24580CB226976D800065BA52 /* moveZeroes.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
