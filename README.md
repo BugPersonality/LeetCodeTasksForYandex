@@ -10,7 +10,7 @@
 | &#9745; |  22  | [generate parentheses](https://leetcode.com/problems/generate-parentheses/) |   **Medium**   | [Source Code](/LeetCodeTraining/LeetCodeTraining/generateParentheses.swift) | Swift |
 | &#9744; | 146  |    [lru cache](https://leetcode.com/problems/lru-cache/)     |   **Medium**   |                           **nill**                           |       |
 | &#9745; | 283  |  [move zeroes](https://leetcode.com/problems/move-zeroes/)   |    **Easy**    | [Source Code](/LeetCodeTraining/LeetCodeTraining/moveZeroes.swift) | Swift |
-| &#9744; | 125  | [valid palindrome](https://leetcode.com/problems/valid-palindrome/) |    **Easy**    |                           **nill**                           |       |
+| &#9745; | 125  | [valid palindrome](https://leetcode.com/problems/valid-palindrome/) |    **Easy**    | [Source Code](/LeetCodeTraining/LeetCodeTraining/validPalindrome.swift) | Swift |
 | &#9744; |  49  | [group anagrams](https://leetcode.com/problems/group-anagrams/) |   **Medium**   |                           **nill**                           |       |
 | &#9744; | 1493 | [longest subarray](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) |   **Medium**   |                           **nill**                           |       |
 | &#9744; |  20  | [valid parentheses](https://leetcode.com/problems/valid-parentheses/) |    **Easy**    |                           **nill**                           |       |
