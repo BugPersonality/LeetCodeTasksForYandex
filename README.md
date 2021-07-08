@@ -4,7 +4,7 @@
 
 | Status  |  #   |                            Title                             | **Difficulty** |                           Solution                           |
 | :-----: | :--: | :----------------------------------------------------------: | :------------: | :----------------------------------------------------------: |
-| &#9744; | 228  | [summary ranges](https://leetcode.com/problems/summary-ranges/) |    **Easy**    |                           **nill**                           |
+| &#9744; | 228  | [summary ranges](https://leetcode.com/problems/summary-ranges/) |    **Easy**    | [Source Code](/LeetCodeTraining/LeetCodeTraining/summaryRanges.cpp) |
 | &#9744; | 443  | [string compression](https://leetcode.com/problems/string-compression/) |   **Medium**   |                           **nill**                           |
 | &#9744; | 206  | [reverse linked list](https://leetcode.com/problems/reverse-linked-list/) |    **Easy**    |                           **nill**                           |
 | &#9744; |  22  | [generate parentheses](https://leetcode.com/problems/generate-parentheses/) |   **Medium**   |                           **nill**                           |

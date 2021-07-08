@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		24580C9C2683C9BB0065BA52 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24580C9B2683C9BB0065BA52 /* main.cpp */; };
 		24580CA62683CB1B0065BA52 /* twoSum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24580CA42683CB1B0065BA52 /* twoSum.cpp */; };
+		24580CA92697429F0065BA52 /* summaryRanges.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24580CA72697429F0065BA52 /* summaryRanges.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		24580C982683C9BB0065BA52 /* LeetCodeTraining */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCodeTraining; sourceTree = BUILT_PRODUCTS_DIR; };
 		24580C9B2683C9BB0065BA52 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		24580CA42683CB1B0065BA52 /* twoSum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = twoSum.cpp; sourceTree = "<group>"; };
+		24580CA72697429F0065BA52 /* summaryRanges.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = summaryRanges.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				24580C9B2683C9BB0065BA52 /* main.cpp */,
 				24580CA42683CB1B0065BA52 /* twoSum.cpp */,
+				24580CA72697429F0065BA52 /* summaryRanges.cpp */,
 			);
 			path = LeetCodeTraining;
 			sourceTree = "<group>";
@@ -122,6 +125,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				24580CA92697429F0065BA52 /* summaryRanges.cpp in Sources */,
 				24580CA62683CB1B0065BA52 /* twoSum.cpp in Sources */,
 				24580C9C2683C9BB0065BA52 /* main.cpp in Sources */,
 			);
