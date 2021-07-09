@@ -19,6 +19,7 @@
 		24580CBB269884BE0065BA52 /* queueUsingStacks.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24580CB9269884BE0065BA52 /* queueUsingStacks.cpp */; };
 		24580CBE2698CA780065BA52 /* mergeTwoSortedLists.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24580CBC2698CA770065BA52 /* mergeTwoSortedLists.cpp */; };
 		24580CC02698CF5D0065BA52 /* mergeSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24580CBF2698CF5D0065BA52 /* mergeSortedArray.swift */; };
+		24580CC32698D3C10065BA52 /* symmetricTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24580CC12698D3C10065BA52 /* symmetricTree.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -47,6 +48,7 @@
 		24580CB9269884BE0065BA52 /* queueUsingStacks.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = queueUsingStacks.cpp; sourceTree = "<group>"; };
 		24580CBC2698CA770065BA52 /* mergeTwoSortedLists.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = mergeTwoSortedLists.cpp; sourceTree = "<group>"; };
 		24580CBF2698CF5D0065BA52 /* mergeSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mergeSortedArray.swift; sourceTree = "<group>"; };
+		24580CC12698D3C10065BA52 /* symmetricTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = symmetricTree.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 				24580CB9269884BE0065BA52 /* queueUsingStacks.cpp */,
 				24580CBC2698CA770065BA52 /* mergeTwoSortedLists.cpp */,
 				24580CBF2698CF5D0065BA52 /* mergeSortedArray.swift */,
+				24580CC12698D3C10065BA52 /* symmetricTree.cpp */,
 			);
 			path = LeetCodeTraining;
 			sourceTree = "<group>";
@@ -152,6 +155,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				24580CC32698D3C10065BA52 /* symmetricTree.cpp in Sources */,
 				24580CA92697429F0065BA52 /* summaryRanges.cpp in Sources */,
 				24580CA62683CB1B0065BA52 /* twoSum.cpp in Sources */,
 				24580CBE2698CA780065BA52 /* mergeTwoSortedLists.cpp in Sources */,
