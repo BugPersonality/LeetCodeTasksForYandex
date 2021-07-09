@@ -18,6 +18,7 @@
 		24580CB826977A720065BA52 /* validParentheses.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24580CB626977A720065BA52 /* validParentheses.cpp */; };
 		24580CBB269884BE0065BA52 /* queueUsingStacks.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24580CB9269884BE0065BA52 /* queueUsingStacks.cpp */; };
 		24580CBE2698CA780065BA52 /* mergeTwoSortedLists.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24580CBC2698CA770065BA52 /* mergeTwoSortedLists.cpp */; };
+		24580CC02698CF5D0065BA52 /* mergeSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24580CBF2698CF5D0065BA52 /* mergeSortedArray.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -45,6 +46,7 @@
 		24580CB626977A720065BA52 /* validParentheses.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = validParentheses.cpp; sourceTree = "<group>"; };
 		24580CB9269884BE0065BA52 /* queueUsingStacks.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = queueUsingStacks.cpp; sourceTree = "<group>"; };
 		24580CBC2698CA770065BA52 /* mergeTwoSortedLists.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = mergeTwoSortedLists.cpp; sourceTree = "<group>"; };
+		24580CBF2698CF5D0065BA52 /* mergeSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mergeSortedArray.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 				24580CB626977A720065BA52 /* validParentheses.cpp */,
 				24580CB9269884BE0065BA52 /* queueUsingStacks.cpp */,
 				24580CBC2698CA770065BA52 /* mergeTwoSortedLists.cpp */,
+				24580CBF2698CF5D0065BA52 /* mergeSortedArray.swift */,
 			);
 			path = LeetCodeTraining;
 			sourceTree = "<group>";
@@ -154,6 +157,7 @@
 				24580CBE2698CA780065BA52 /* mergeTwoSortedLists.cpp in Sources */,
 				24580CAE26975C5B0065BA52 /* reverseLinkedList.swift in Sources */,
 				24580CB826977A720065BA52 /* validParentheses.cpp in Sources */,
+				24580CC02698CF5D0065BA52 /* mergeSortedArray.swift in Sources */,
 				24580CB4269776EA0065BA52 /* validPalindrome.swift in Sources */,
 				24580C9C2683C9BB0065BA52 /* main.cpp in Sources */,
 				24580CAC269754B70065BA52 /* stringCompression.cpp in Sources */,

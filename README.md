@@ -29,7 +29,7 @@
 | &#9744; |  3   | [longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |   **Medium**   |                           **nill**                           |       |
 | &#9744; |  2   | [add two numbers](https://leetcode.com/problems/add-two-numbers/) |   **Medium**   |                           **nill**                           |       |
 | &#9745; |  21  | [merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/) |    **Easy**    | [Source Code](/LeetCodeTraining/LeetCodeTraining/mergeTwoSortedLists.cpp) | c++   |
-| &#9744; |  88  | [merge sorted array](https://leetcode.com/problems/merge-sorted-array/) |    **Easy**    |                           **nill**                           |       |
+| &#9745; |  88  | [merge sorted array](https://leetcode.com/problems/merge-sorted-array/) |    **Easy**    | [Source Code](/LeetCodeTraining/LeetCodeTraining/mergeSortedArray.swift) | Swift |
 | &#9744; | 101  | [symmetric tree](https://leetcode.com/problems/symmetric-tree/) |    **Easy**    |                           **nill**                           |       |
 | &#9744; | 268  | [missing number](https://leetcode.com/problems/missing-number/) |    **Easy**    |                           **nill**                           |       |
 | &#9744; |  48  | [rotate image](https://leetcode.com/problems/rotate-image/)  |   **Medium**   |                           **nill**                           |       |
