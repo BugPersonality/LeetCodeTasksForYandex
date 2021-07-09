@@ -16,6 +16,7 @@
 		24580CB226976D800065BA52 /* moveZeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24580CB126976D800065BA52 /* moveZeroes.swift */; };
 		24580CB4269776EA0065BA52 /* validPalindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24580CB3269776EA0065BA52 /* validPalindrome.swift */; };
 		24580CB826977A720065BA52 /* validParentheses.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24580CB626977A720065BA52 /* validParentheses.cpp */; };
+		24580CBB269884BE0065BA52 /* queueUsingStacks.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24580CB9269884BE0065BA52 /* queueUsingStacks.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -41,6 +42,7 @@
 		24580CB126976D800065BA52 /* moveZeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = moveZeroes.swift; sourceTree = "<group>"; };
 		24580CB3269776EA0065BA52 /* validPalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = validPalindrome.swift; sourceTree = "<group>"; };
 		24580CB626977A720065BA52 /* validParentheses.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = validParentheses.cpp; sourceTree = "<group>"; };
+		24580CB9269884BE0065BA52 /* queueUsingStacks.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = queueUsingStacks.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				24580CB126976D800065BA52 /* moveZeroes.swift */,
 				24580CB3269776EA0065BA52 /* validPalindrome.swift */,
 				24580CB626977A720065BA52 /* validParentheses.cpp */,
+				24580CB9269884BE0065BA52 /* queueUsingStacks.cpp */,
 			);
 			path = LeetCodeTraining;
 			sourceTree = "<group>";
@@ -150,6 +153,7 @@
 				24580CB4269776EA0065BA52 /* validPalindrome.swift in Sources */,
 				24580C9C2683C9BB0065BA52 /* main.cpp in Sources */,
 				24580CAC269754B70065BA52 /* stringCompression.cpp in Sources */,
+				24580CBB269884BE0065BA52 /* queueUsingStacks.cpp in Sources */,
 				24580CB02697672E0065BA52 /* generateParentheses.swift in Sources */,
 				24580CB226976D800065BA52 /* moveZeroes.swift in Sources */,
 			);
