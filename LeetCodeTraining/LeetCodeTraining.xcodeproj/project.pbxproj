@@ -17,6 +17,7 @@
 		24580CB4269776EA0065BA52 /* validPalindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24580CB3269776EA0065BA52 /* validPalindrome.swift */; };
 		24580CB826977A720065BA52 /* validParentheses.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24580CB626977A720065BA52 /* validParentheses.cpp */; };
 		24580CBB269884BE0065BA52 /* queueUsingStacks.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24580CB9269884BE0065BA52 /* queueUsingStacks.cpp */; };
+		24580CBE2698CA780065BA52 /* mergeTwoSortedLists.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24580CBC2698CA770065BA52 /* mergeTwoSortedLists.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -43,6 +44,7 @@
 		24580CB3269776EA0065BA52 /* validPalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = validPalindrome.swift; sourceTree = "<group>"; };
 		24580CB626977A720065BA52 /* validParentheses.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = validParentheses.cpp; sourceTree = "<group>"; };
 		24580CB9269884BE0065BA52 /* queueUsingStacks.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = queueUsingStacks.cpp; sourceTree = "<group>"; };
+		24580CBC2698CA770065BA52 /* mergeTwoSortedLists.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = mergeTwoSortedLists.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				24580CB3269776EA0065BA52 /* validPalindrome.swift */,
 				24580CB626977A720065BA52 /* validParentheses.cpp */,
 				24580CB9269884BE0065BA52 /* queueUsingStacks.cpp */,
+				24580CBC2698CA770065BA52 /* mergeTwoSortedLists.cpp */,
 			);
 			path = LeetCodeTraining;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 			files = (
 				24580CA92697429F0065BA52 /* summaryRanges.cpp in Sources */,
 				24580CA62683CB1B0065BA52 /* twoSum.cpp in Sources */,
+				24580CBE2698CA780065BA52 /* mergeTwoSortedLists.cpp in Sources */,
 				24580CAE26975C5B0065BA52 /* reverseLinkedList.swift in Sources */,
 				24580CB826977A720065BA52 /* validParentheses.cpp in Sources */,
 				24580CB4269776EA0065BA52 /* validPalindrome.swift in Sources */,
