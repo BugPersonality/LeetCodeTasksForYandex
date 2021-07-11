@@ -1,14 +1,10 @@
-//
-//  main.cpp
-//  LeetCodeTraining
-//
-//  Created by Данил Дубов on 23.06.2021.
-//
-
 #include <iostream>
 #include <vector>
 #include <map>
+#include <stack>
+#include <queue>
 using namespace std;
+
 
 int strStr(string haystack, string needle) {
     if (needle == "")  {
@@ -42,7 +38,3 @@ int strStr(string haystack, string needle) {
     return -1;
 }
 
-int main(int argc, const char * argv[]) {
-    cout << strStr("aaa", "a") << endl;
-    return 0;
-}
