@@ -37,7 +37,7 @@
 | &#9744; | 332  | [reconstruct itinerary](https://leetcode.com/problems/reconstruct-itinerary/) |   **Medium**   |                           **nill**                           |       |
 | &#9744; | 658  | [find k closest elements](https://leetcode.com/problems/find-k-closest-elements/) |   **Medium**   |                           **nill**                           |       |
 | &#9744; | 200  | [number of islands](https://leetcode.com/problems/number-of-islands/) |   **Medium**   |                           **nill**                           |       |
-| &#9744; | 392  | [is subsequence](https://leetcode.com/problems/is-subsequence/) |    **Easy**    |                           **nill**                           |       |
+| &#9745; | 392  | [is subsequence](https://leetcode.com/problems/is-subsequence/) |    **Easy**    | [Source Code](/LeetCodeTraining/LeetCodeTraining/isSubsequence.swift) | Swift |
 | &#9744; | 849  | [maximize distance to closest person](https://leetcode.com/problems/maximize-distance-to-closest-person/) |   **Medium**   |                           **nill**                           |       |
 | &#9744; |  4   | [median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) |    **Hard**    |                           **nill**                           |       |
 | &#9744; | 974  | [subarray sums divisible by k](https://leetcode.com/problems/subarray-sums-divisible-by-k/) |   **Medium**   |                           **nill**                           |       |

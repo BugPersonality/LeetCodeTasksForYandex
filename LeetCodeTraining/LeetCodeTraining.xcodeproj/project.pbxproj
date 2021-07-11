@@ -21,6 +21,7 @@
 		24580CC02698CF5D0065BA52 /* mergeSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24580CBF2698CF5D0065BA52 /* mergeSortedArray.swift */; };
 		24580CC32698D3C10065BA52 /* symmetricTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24580CC12698D3C10065BA52 /* symmetricTree.cpp */; };
 		24580CC52698DB490065BA52 /* missingNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24580CC42698DB490065BA52 /* missingNumber.swift */; };
+		24580CC7269AEFBD0065BA52 /* isSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24580CC6269AEFBC0065BA52 /* isSubsequence.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -51,6 +52,7 @@
 		24580CBF2698CF5D0065BA52 /* mergeSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mergeSortedArray.swift; sourceTree = "<group>"; };
 		24580CC12698D3C10065BA52 /* symmetricTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = symmetricTree.cpp; sourceTree = "<group>"; };
 		24580CC42698DB490065BA52 /* missingNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = missingNumber.swift; sourceTree = "<group>"; };
+		24580CC6269AEFBC0065BA52 /* isSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = isSubsequence.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 				24580CBF2698CF5D0065BA52 /* mergeSortedArray.swift */,
 				24580CC12698D3C10065BA52 /* symmetricTree.cpp */,
 				24580CC42698DB490065BA52 /* missingNumber.swift */,
+				24580CC6269AEFBC0065BA52 /* isSubsequence.swift */,
 			);
 			path = LeetCodeTraining;
 			sourceTree = "<group>";
@@ -162,6 +165,7 @@
 				24580CA92697429F0065BA52 /* summaryRanges.cpp in Sources */,
 				24580CA62683CB1B0065BA52 /* twoSum.cpp in Sources */,
 				24580CBE2698CA780065BA52 /* mergeTwoSortedLists.cpp in Sources */,
+				24580CC7269AEFBD0065BA52 /* isSubsequence.swift in Sources */,
 				24580CAE26975C5B0065BA52 /* reverseLinkedList.swift in Sources */,
 				24580CC52698DB490065BA52 /* missingNumber.swift in Sources */,
 				24580CB826977A720065BA52 /* validParentheses.cpp in Sources */,
