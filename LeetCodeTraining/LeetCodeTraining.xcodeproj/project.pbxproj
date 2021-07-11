@@ -25,6 +25,7 @@
 		24580CC9269AFF8B0065BA52 /* squaresOfASortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24580CC8269AFF8A0065BA52 /* squaresOfASortedArray.swift */; };
 		24580CCB269B08C50065BA52 /* intersectionofTwoArraysII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24580CCA269B08C50065BA52 /* intersectionofTwoArraysII.swift */; };
 		24580CD0269B13C20065BA52 /* implementStrStr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24580CCE269B13C20065BA52 /* implementStrStr.cpp */; };
+		24580CD2269B1A6F0065BA52 /* palindromeLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24580CD1269B1A6F0065BA52 /* palindromeLinkedList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -59,6 +60,7 @@
 		24580CC8269AFF8A0065BA52 /* squaresOfASortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = squaresOfASortedArray.swift; sourceTree = "<group>"; };
 		24580CCA269B08C50065BA52 /* intersectionofTwoArraysII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = intersectionofTwoArraysII.swift; sourceTree = "<group>"; };
 		24580CCE269B13C20065BA52 /* implementStrStr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = implementStrStr.cpp; sourceTree = "<group>"; };
+		24580CD1269B1A6F0065BA52 /* palindromeLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = palindromeLinkedList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				24580CC8269AFF8A0065BA52 /* squaresOfASortedArray.swift */,
 				24580CCA269B08C50065BA52 /* intersectionofTwoArraysII.swift */,
 				24580CCE269B13C20065BA52 /* implementStrStr.cpp */,
+				24580CD1269B1A6F0065BA52 /* palindromeLinkedList.swift */,
 			);
 			path = LeetCodeTraining;
 			sourceTree = "<group>";
@@ -173,6 +176,7 @@
 				24580CC9269AFF8B0065BA52 /* squaresOfASortedArray.swift in Sources */,
 				24580CC32698D3C10065BA52 /* symmetricTree.cpp in Sources */,
 				24580CCB269B08C50065BA52 /* intersectionofTwoArraysII.swift in Sources */,
+				24580CD2269B1A6F0065BA52 /* palindromeLinkedList.swift in Sources */,
 				24580CD0269B13C20065BA52 /* implementStrStr.cpp in Sources */,
 				24580CA92697429F0065BA52 /* summaryRanges.cpp in Sources */,
 				24580CA62683CB1B0065BA52 /* twoSum.cpp in Sources */,
