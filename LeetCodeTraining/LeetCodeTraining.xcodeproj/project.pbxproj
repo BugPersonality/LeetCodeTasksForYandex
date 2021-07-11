@@ -22,6 +22,7 @@
 		24580CC32698D3C10065BA52 /* symmetricTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24580CC12698D3C10065BA52 /* symmetricTree.cpp */; };
 		24580CC52698DB490065BA52 /* missingNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24580CC42698DB490065BA52 /* missingNumber.swift */; };
 		24580CC7269AEFBD0065BA52 /* isSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24580CC6269AEFBC0065BA52 /* isSubsequence.swift */; };
+		24580CC9269AFF8B0065BA52 /* squaresOfASortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24580CC8269AFF8A0065BA52 /* squaresOfASortedArray.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -53,6 +54,7 @@
 		24580CC12698D3C10065BA52 /* symmetricTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = symmetricTree.cpp; sourceTree = "<group>"; };
 		24580CC42698DB490065BA52 /* missingNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = missingNumber.swift; sourceTree = "<group>"; };
 		24580CC6269AEFBC0065BA52 /* isSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = isSubsequence.swift; sourceTree = "<group>"; };
+		24580CC8269AFF8A0065BA52 /* squaresOfASortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = squaresOfASortedArray.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				24580CC12698D3C10065BA52 /* symmetricTree.cpp */,
 				24580CC42698DB490065BA52 /* missingNumber.swift */,
 				24580CC6269AEFBC0065BA52 /* isSubsequence.swift */,
+				24580CC8269AFF8A0065BA52 /* squaresOfASortedArray.swift */,
 			);
 			path = LeetCodeTraining;
 			sourceTree = "<group>";
@@ -161,6 +164,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				24580CC9269AFF8B0065BA52 /* squaresOfASortedArray.swift in Sources */,
 				24580CC32698D3C10065BA52 /* symmetricTree.cpp in Sources */,
 				24580CA92697429F0065BA52 /* summaryRanges.cpp in Sources */,
 				24580CA62683CB1B0065BA52 /* twoSum.cpp in Sources */,

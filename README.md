@@ -43,7 +43,7 @@
 | &#9744; | 974  | [subarray sums divisible by k](https://leetcode.com/problems/subarray-sums-divisible-by-k/) |   **Medium**   |                           **nill**                           |       |
 | &#9744; |  33  | [search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/) |   **Medium**   |                           **nill**                           |       |
 | &#9744; | 449  | [serialize and deserialize bst](https://leetcode.com/problems/serialize-and-deserialize-bst/) |   **Medium**   |                           **nill**                           |       |
-| &#9744; | 977  | [squares of a sorted array](https://leetcode.com/problems/squares-of-a-sorted-array/) |    **Easy**    |                           **nill**                           |       |
+| &#9745; | 977  | [squares of a sorted array](https://leetcode.com/problems/squares-of-a-sorted-array/) |    **Easy**    | [Source Code](/LeetCodeTraining/LeetCodeTraining/squaresOfASortedArray.swift) | Swift |
 | &#9744; | 350  | [intersection of two arrays ii](https://leetcode.com/problems/intersection-of-two-arrays-ii/) |    **Easy**    |                           **nill**                           |       |
 | &#9744; |  19  | [remove nth node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |   **Medium**   |                           **nill**                           |       |
 | &#9744; |  85  | [maximal rectangle](https://leetcode.com/problems/maximal-rectangle/) |    **Hard**    |                           **nill**                           |       |
