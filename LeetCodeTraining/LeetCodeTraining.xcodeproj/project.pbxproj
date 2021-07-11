@@ -23,6 +23,7 @@
 		24580CC52698DB490065BA52 /* missingNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24580CC42698DB490065BA52 /* missingNumber.swift */; };
 		24580CC7269AEFBD0065BA52 /* isSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24580CC6269AEFBC0065BA52 /* isSubsequence.swift */; };
 		24580CC9269AFF8B0065BA52 /* squaresOfASortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24580CC8269AFF8A0065BA52 /* squaresOfASortedArray.swift */; };
+		24580CCB269B08C50065BA52 /* intersectionofTwoArraysII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24580CCA269B08C50065BA52 /* intersectionofTwoArraysII.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -55,6 +56,7 @@
 		24580CC42698DB490065BA52 /* missingNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = missingNumber.swift; sourceTree = "<group>"; };
 		24580CC6269AEFBC0065BA52 /* isSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = isSubsequence.swift; sourceTree = "<group>"; };
 		24580CC8269AFF8A0065BA52 /* squaresOfASortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = squaresOfASortedArray.swift; sourceTree = "<group>"; };
+		24580CCA269B08C50065BA52 /* intersectionofTwoArraysII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = intersectionofTwoArraysII.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				24580CC42698DB490065BA52 /* missingNumber.swift */,
 				24580CC6269AEFBC0065BA52 /* isSubsequence.swift */,
 				24580CC8269AFF8A0065BA52 /* squaresOfASortedArray.swift */,
+				24580CCA269B08C50065BA52 /* intersectionofTwoArraysII.swift */,
 			);
 			path = LeetCodeTraining;
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 			files = (
 				24580CC9269AFF8B0065BA52 /* squaresOfASortedArray.swift in Sources */,
 				24580CC32698D3C10065BA52 /* symmetricTree.cpp in Sources */,
+				24580CCB269B08C50065BA52 /* intersectionofTwoArraysII.swift in Sources */,
 				24580CA92697429F0065BA52 /* summaryRanges.cpp in Sources */,
 				24580CA62683CB1B0065BA52 /* twoSum.cpp in Sources */,
 				24580CBE2698CA780065BA52 /* mergeTwoSortedLists.cpp in Sources */,
