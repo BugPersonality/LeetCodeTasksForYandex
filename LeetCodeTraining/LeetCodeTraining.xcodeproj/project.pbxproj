@@ -28,6 +28,7 @@
 		24580CD2269B1A6F0065BA52 /* palindromeLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24580CD1269B1A6F0065BA52 /* palindromeLinkedList.swift */; };
 		24580CD4269C68C40065BA52 /* rotateImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24580CD3269C68C40065BA52 /* rotateImage.swift */; };
 		24580CD6269CA0BC0065BA52 /* groupAnagrams.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24580CD5269CA0BC0065BA52 /* groupAnagrams.swift */; };
+		24580CD8269CD75D0065BA52 /* longestSubarrayofAfterDeletingOneElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24580CD7269CD75D0065BA52 /* longestSubarrayofAfterDeletingOneElement.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -65,6 +66,7 @@
 		24580CD1269B1A6F0065BA52 /* palindromeLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = palindromeLinkedList.swift; sourceTree = "<group>"; };
 		24580CD3269C68C40065BA52 /* rotateImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rotateImage.swift; sourceTree = "<group>"; };
 		24580CD5269CA0BC0065BA52 /* groupAnagrams.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = groupAnagrams.swift; sourceTree = "<group>"; };
+		24580CD7269CD75D0065BA52 /* longestSubarrayofAfterDeletingOneElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = longestSubarrayofAfterDeletingOneElement.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +120,7 @@
 				24580CD1269B1A6F0065BA52 /* palindromeLinkedList.swift */,
 				24580CD3269C68C40065BA52 /* rotateImage.swift */,
 				24580CD5269CA0BC0065BA52 /* groupAnagrams.swift */,
+				24580CD7269CD75D0065BA52 /* longestSubarrayofAfterDeletingOneElement.swift */,
 			);
 			path = LeetCodeTraining;
 			sourceTree = "<group>";
@@ -184,6 +187,7 @@
 				24580CCB269B08C50065BA52 /* intersectionofTwoArraysII.swift in Sources */,
 				24580CD2269B1A6F0065BA52 /* palindromeLinkedList.swift in Sources */,
 				24580CD6269CA0BC0065BA52 /* groupAnagrams.swift in Sources */,
+				24580CD8269CD75D0065BA52 /* longestSubarrayofAfterDeletingOneElement.swift in Sources */,
 				24580CD0269B13C20065BA52 /* implementStrStr.cpp in Sources */,
 				24580CA92697429F0065BA52 /* summaryRanges.cpp in Sources */,
 				24580CD4269C68C40065BA52 /* rotateImage.swift in Sources */,

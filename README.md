@@ -12,7 +12,7 @@
 | &#9745; | 283  |  [move zeroes](https://leetcode.com/problems/move-zeroes/)   |    **Easy**    | [Source Code](/LeetCodeTraining/LeetCodeTraining/moveZeroes.swift) | Swift |
 | &#9745; | 125  | [valid palindrome](https://leetcode.com/problems/valid-palindrome/) |    **Easy**    | [Source Code](/LeetCodeTraining/LeetCodeTraining/validPalindrome.swift) | Swift |
 | &#9745; |  49  | [group anagrams](https://leetcode.com/problems/group-anagrams/) |   **Medium**   | [Source Code](/LeetCodeTraining/LeetCodeTraining/groupAnagrams.swift) | Swift |
-| &#9744; | 1493 | [longest subarray](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) |   **Medium**   |                           **nill**                           |       |
+| &#9745; | 1493 | [longest subarray](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) |   **Medium**   | [Source Code](/LeetCodeTraining/LeetCodeTraining/longestSubarrayofAfterDeletingOneElement.swift) | Swift |
 | &#9745; |  20  | [valid parentheses](https://leetcode.com/problems/valid-parentheses/) |    **Easy**    | [Source Code](/LeetCodeTraining/LeetCodeTraining/validParentheses.cpp) | с++   |
 | &#9744; | 560  | [subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/) |   **Medium**   |                           **nill**                           |       |
 | &#9744; | 380  | [insert delete getrandom o1](https://leetcode.com/problems/insert-delete-getrandom-o1/) |   **Medium**   |                           **nill**                           |       |
