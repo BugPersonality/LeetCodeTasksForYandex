@@ -27,6 +27,7 @@
 		24580CD0269B13C20065BA52 /* implementStrStr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24580CCE269B13C20065BA52 /* implementStrStr.cpp */; };
 		24580CD2269B1A6F0065BA52 /* palindromeLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24580CD1269B1A6F0065BA52 /* palindromeLinkedList.swift */; };
 		24580CD4269C68C40065BA52 /* rotateImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24580CD3269C68C40065BA52 /* rotateImage.swift */; };
+		24580CD6269CA0BC0065BA52 /* groupAnagrams.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24580CD5269CA0BC0065BA52 /* groupAnagrams.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -63,6 +64,7 @@
 		24580CCE269B13C20065BA52 /* implementStrStr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = implementStrStr.cpp; sourceTree = "<group>"; };
 		24580CD1269B1A6F0065BA52 /* palindromeLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = palindromeLinkedList.swift; sourceTree = "<group>"; };
 		24580CD3269C68C40065BA52 /* rotateImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rotateImage.swift; sourceTree = "<group>"; };
+		24580CD5269CA0BC0065BA52 /* groupAnagrams.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = groupAnagrams.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 				24580CCE269B13C20065BA52 /* implementStrStr.cpp */,
 				24580CD1269B1A6F0065BA52 /* palindromeLinkedList.swift */,
 				24580CD3269C68C40065BA52 /* rotateImage.swift */,
+				24580CD5269CA0BC0065BA52 /* groupAnagrams.swift */,
 			);
 			path = LeetCodeTraining;
 			sourceTree = "<group>";
@@ -180,6 +183,7 @@
 				24580CC32698D3C10065BA52 /* symmetricTree.cpp in Sources */,
 				24580CCB269B08C50065BA52 /* intersectionofTwoArraysII.swift in Sources */,
 				24580CD2269B1A6F0065BA52 /* palindromeLinkedList.swift in Sources */,
+				24580CD6269CA0BC0065BA52 /* groupAnagrams.swift in Sources */,
 				24580CD0269B13C20065BA52 /* implementStrStr.cpp in Sources */,
 				24580CA92697429F0065BA52 /* summaryRanges.cpp in Sources */,
 				24580CD4269C68C40065BA52 /* rotateImage.swift in Sources */,
