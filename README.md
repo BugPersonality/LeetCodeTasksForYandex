@@ -32,7 +32,7 @@
 | &#9745; |  88  | [merge sorted array](https://leetcode.com/problems/merge-sorted-array/) |    **Easy**    | [Source Code](/LeetCodeTraining/LeetCodeTraining/mergeSortedArray.swift) | Swift |
 | &#9745; | 101  | [symmetric tree](https://leetcode.com/problems/symmetric-tree/) |    **Easy**    | [Source Code](/LeetCodeTraining/LeetCodeTraining/symmetricTree.cpp) | c++   |
 | &#9745; | 268  | [missing number](https://leetcode.com/problems/missing-number/) |    **Easy**    | [Source Code](/LeetCodeTraining/LeetCodeTraining/missingNumber.swift) | Swift |
-| &#9744; |  48  | [rotate image](https://leetcode.com/problems/rotate-image/)  |   **Medium**   |                           **nill**                           |       |
+| &#9745; |  48  | [rotate image](https://leetcode.com/problems/rotate-image/)  |   **Medium**   | [Source Code](/LeetCodeTraining/LeetCodeTraining/rotateImage.swift) | Swift |
 | &#9744; |  5   | [longest palindromic substring](https://leetcode.com/problems/longest-palindromic-substring/) |   **Medium**   |                           **nill**                           |       |
 | &#9744; | 332  | [reconstruct itinerary](https://leetcode.com/problems/reconstruct-itinerary/) |   **Medium**   |                           **nill**                           |       |
 | &#9744; | 658  | [find k closest elements](https://leetcode.com/problems/find-k-closest-elements/) |   **Medium**   |                           **nill**                           |       |
