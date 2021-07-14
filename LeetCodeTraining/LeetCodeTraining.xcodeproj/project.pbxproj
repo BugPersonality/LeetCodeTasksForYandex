@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2434FA81269F113100C35AAF /* subarraySumEqualsK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2434FA80269F113100C35AAF /* subarraySumEqualsK.swift */; };
 		24580C9C2683C9BB0065BA52 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24580C9B2683C9BB0065BA52 /* main.cpp */; };
 		24580CA62683CB1B0065BA52 /* twoSum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24580CA42683CB1B0065BA52 /* twoSum.cpp */; };
 		24580CA92697429F0065BA52 /* summaryRanges.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24580CA72697429F0065BA52 /* summaryRanges.cpp */; };
@@ -44,6 +45,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		2434FA80269F113100C35AAF /* subarraySumEqualsK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = subarraySumEqualsK.swift; sourceTree = "<group>"; };
 		24580C982683C9BB0065BA52 /* LeetCodeTraining */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCodeTraining; sourceTree = BUILT_PRODUCTS_DIR; };
 		24580C9B2683C9BB0065BA52 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		24580CA42683CB1B0065BA52 /* twoSum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = twoSum.cpp; sourceTree = "<group>"; };
@@ -121,6 +123,7 @@
 				24580CD3269C68C40065BA52 /* rotateImage.swift */,
 				24580CD5269CA0BC0065BA52 /* groupAnagrams.swift */,
 				24580CD7269CD75D0065BA52 /* longestSubarrayofAfterDeletingOneElement.swift */,
+				2434FA80269F113100C35AAF /* subarraySumEqualsK.swift */,
 			);
 			path = LeetCodeTraining;
 			sourceTree = "<group>";
@@ -198,6 +201,7 @@
 				24580CC52698DB490065BA52 /* missingNumber.swift in Sources */,
 				24580CB826977A720065BA52 /* validParentheses.cpp in Sources */,
 				24580CC02698CF5D0065BA52 /* mergeSortedArray.swift in Sources */,
+				2434FA81269F113100C35AAF /* subarraySumEqualsK.swift in Sources */,
 				24580CB4269776EA0065BA52 /* validPalindrome.swift in Sources */,
 				24580C9C2683C9BB0065BA52 /* main.cpp in Sources */,
 				24580CAC269754B70065BA52 /* stringCompression.cpp in Sources */,

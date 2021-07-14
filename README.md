@@ -14,7 +14,7 @@
 | &#9745; |  49  | [group anagrams](https://leetcode.com/problems/group-anagrams/) |   **Medium**   | [Source Code](/LeetCodeTraining/LeetCodeTraining/groupAnagrams.swift) | Swift |
 | &#9745; | 1493 | [longest subarray](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) |   **Medium**   | [Source Code](/LeetCodeTraining/LeetCodeTraining/longestSubarrayofAfterDeletingOneElement.swift) | Swift |
 | &#9745; |  20  | [valid parentheses](https://leetcode.com/problems/valid-parentheses/) |    **Easy**    | [Source Code](/LeetCodeTraining/LeetCodeTraining/validParentheses.cpp) | с++   |
-| &#9744; | 560  | [subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/) |   **Medium**   |                           **nill**                           |       |
+| &#9745; | 560  | [subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/) |   **Medium**   |  [Source Code](/LeetCodeTraining/subarraySumEqualsK.swift)   | Swift |
 | &#9744; | 380  | [insert delete getrandom o1](https://leetcode.com/problems/insert-delete-getrandom-o1/) |   **Medium**   |                           **nill**                           |       |
 | &#9745; |  1   |      [two sum](https://leetcode.com/problems/two-sum/)       |    **Easy**    | [Source Code](/LeetCodeTraining/LeetCodeTraining/twoSum.cpp) | c++   |
 | &#9744; |  23  | [merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/) |    **Hard**    |                           **nill**                           |       |
