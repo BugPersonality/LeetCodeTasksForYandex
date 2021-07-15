@@ -11,6 +11,7 @@
 		2434FA86269F123D00C35AAF /* numberOfRecentCalls.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2434FA84269F123D00C35AAF /* numberOfRecentCalls.cpp */; };
 		2434FA88269F12C200C35AAF /* insertDeleteGetRandomO1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2434FA87269F12C200C35AAF /* insertDeleteGetRandomO1.swift */; };
 		2434FA8A26A08C4300C35AAF /* productOfArrayExceptSelf.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2434FA8926A08C4200C35AAF /* productOfArrayExceptSelf.swift */; };
+		2434FA8C26A0903000C35AAF /* simplifyPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2434FA8B26A0903000C35AAF /* simplifyPath.swift */; };
 		24580C9C2683C9BB0065BA52 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24580C9B2683C9BB0065BA52 /* main.cpp */; };
 		24580CA62683CB1B0065BA52 /* twoSum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24580CA42683CB1B0065BA52 /* twoSum.cpp */; };
 		24580CA92697429F0065BA52 /* summaryRanges.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24580CA72697429F0065BA52 /* summaryRanges.cpp */; };
@@ -52,6 +53,7 @@
 		2434FA84269F123D00C35AAF /* numberOfRecentCalls.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = numberOfRecentCalls.cpp; sourceTree = "<group>"; };
 		2434FA87269F12C200C35AAF /* insertDeleteGetRandomO1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = insertDeleteGetRandomO1.swift; sourceTree = "<group>"; };
 		2434FA8926A08C4200C35AAF /* productOfArrayExceptSelf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = productOfArrayExceptSelf.swift; sourceTree = "<group>"; };
+		2434FA8B26A0903000C35AAF /* simplifyPath.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = simplifyPath.swift; sourceTree = "<group>"; };
 		24580C982683C9BB0065BA52 /* LeetCodeTraining */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCodeTraining; sourceTree = BUILT_PRODUCTS_DIR; };
 		24580C9B2683C9BB0065BA52 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		24580CA42683CB1B0065BA52 /* twoSum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = twoSum.cpp; sourceTree = "<group>"; };
@@ -133,6 +135,7 @@
 				2434FA84269F123D00C35AAF /* numberOfRecentCalls.cpp */,
 				2434FA87269F12C200C35AAF /* insertDeleteGetRandomO1.swift */,
 				2434FA8926A08C4200C35AAF /* productOfArrayExceptSelf.swift */,
+				2434FA8B26A0903000C35AAF /* simplifyPath.swift */,
 			);
 			path = LeetCodeTraining;
 			sourceTree = "<group>";
@@ -208,6 +211,7 @@
 				2434FA8A26A08C4300C35AAF /* productOfArrayExceptSelf.swift in Sources */,
 				24580CC7269AEFBD0065BA52 /* isSubsequence.swift in Sources */,
 				24580CAE26975C5B0065BA52 /* reverseLinkedList.swift in Sources */,
+				2434FA8C26A0903000C35AAF /* simplifyPath.swift in Sources */,
 				24580CC52698DB490065BA52 /* missingNumber.swift in Sources */,
 				2434FA86269F123D00C35AAF /* numberOfRecentCalls.cpp in Sources */,
 				24580CB826977A720065BA52 /* validParentheses.cpp in Sources */,
