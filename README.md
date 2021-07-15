@@ -4,7 +4,7 @@
 
 | Status  |  #   |                            Title                             | **Difficulty** |                           Solution                           | Lang  |
 | :-----: | :--: | :----------------------------------------------------------: | :------------: | :----------------------------------------------------------: | ----- |
-| &#9745; | 228  | [summary ranges](https://leetcode.com/problems/summary-ranges/) |    **Easy**    | [Source Code](/LeetCodeTraining/LeetCodeTraining/summaryRanges.cpp) | c++   |
+| &#9745; | 228  | [summary ranges](https://leetcode.com/problems/summary-ranges/) |    **Easy**    | [Source Code](/LeetCodeTraining/LeetCodeTraining/summaryRanges.swift) | Swift |
 | &#9745; | 443  | [string compression](https://leetcode.com/problems/string-compression/) |   **Medium**   | [Source Code](/LeetCodeTraining/LeetCodeTraining/stringCompression.cpp) | c++   |
 | &#9745; | 206  | [reverse linked list](https://leetcode.com/problems/reverse-linked-list/) |    **Easy**    | [Source Code](/LeetCodeTraining/LeetCodeTraining/reverseLinkedList.swift) | Swift |
 | &#9745; |  22  | [generate parentheses](https://leetcode.com/problems/generate-parentheses/) |   **Medium**   | [Source Code](/LeetCodeTraining/LeetCodeTraining/generateParentheses.swift) | Swift |

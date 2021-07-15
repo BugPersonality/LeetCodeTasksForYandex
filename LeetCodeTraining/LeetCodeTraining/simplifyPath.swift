@@ -20,7 +20,6 @@ func simplifyPath(_ path: String) -> String {
     }
 }
 
-
 struct Stack<Element> {
     fileprivate var array: [Element] = []
     
