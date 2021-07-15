@@ -1,15 +1,14 @@
 import  Foundation
 
-
 func simplifyPath(_ path: String) -> String {
 
     let arr = path.split(separator: "/")
     var stack = Stack<String>()
 
     for i in arr {
-        if (i == ".." && stack.count > 1) {
+        if (i == "..") {
             _ = stack.pop()
-        } else if (i != ".") {
+        } else if (i != "." && i != "..") {
             stack.push(String(i))
         }
     }
@@ -17,7 +16,7 @@ func simplifyPath(_ path: String) -> String {
     if (stack.isEmpty) {
         return "/"
     } else {
-        return String(("/" + stack.array.joined(separator: "/")).reversed())
+        return "/" + stack.array.joined(separator: "/")
     }
 }
 
