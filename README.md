@@ -47,7 +47,7 @@
 | &#9745; | 350  | [intersection of two arrays ii](https://leetcode.com/problems/intersection-of-two-arrays-ii/) |    **Easy**    | [Source Code](/LeetCodeTraining/LeetCodeTraining/intersectionofTwoArraysII.swift) | Swift |
 | &#9744; |  19  | [remove nth node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |   **Medium**   |                           **nill**                           |       |
 | &#9744; |  85  | [maximal rectangle](https://leetcode.com/problems/maximal-rectangle/) |    **Hard**    |                           **nill**                           |       |
-| &#9744; |  34  | [find first and last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |   **Medium**   |                           **nill**                           |       |
+| &#9745; |  34  | [find first and last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |   **Medium**   | [Source Code](/LeetCodeTraining/LeetCodeTraining/findFirstAndLastPositionOfElementInSortedArray.swift) | Swift |
 | &#9745; | 150  | [evaluate reverse polish notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |   **Medium**   | [Source Code](/LeetCodeTraining/LeetCodeTraining/evaluateReversePolishNotation.swift) | Swift |
 | &#9744; | 279  | [perfect squares](https://leetcode.com/problems/perfect-squares/) |   **Medium**   |                           **nill**                           |       |
 | &#9745; |  28  | [implement strstr](https://leetcode.com/problems/implement-strstr/) |    **Easy**    | [Source Code](/LeetCodeTraining/LeetCodeTraining/implementStrStr.cpp) | c++   |

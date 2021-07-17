@@ -14,6 +14,7 @@
 		2434FA8C26A0903000C35AAF /* simplifyPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2434FA8B26A0903000C35AAF /* simplifyPath.swift */; };
 		2434FA8E26A09E6400C35AAF /* summaryRanges.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2434FA8D26A09E6400C35AAF /* summaryRanges.swift */; };
 		2434FA9026A323CD00C35AAF /* evaluateReversePolishNotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2434FA8F26A323CD00C35AAF /* evaluateReversePolishNotation.swift */; };
+		2434FA9226A32E6700C35AAF /* findFirstAndLastPositionOfElementInSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2434FA9126A32E6700C35AAF /* findFirstAndLastPositionOfElementInSortedArray.swift */; };
 		24580C9C2683C9BB0065BA52 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24580C9B2683C9BB0065BA52 /* main.cpp */; };
 		24580CA62683CB1B0065BA52 /* twoSum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24580CA42683CB1B0065BA52 /* twoSum.cpp */; };
 		24580CAC269754B70065BA52 /* stringCompression.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24580CAA269754B70065BA52 /* stringCompression.cpp */; };
@@ -57,6 +58,7 @@
 		2434FA8B26A0903000C35AAF /* simplifyPath.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = simplifyPath.swift; sourceTree = "<group>"; };
 		2434FA8D26A09E6400C35AAF /* summaryRanges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = summaryRanges.swift; sourceTree = "<group>"; };
 		2434FA8F26A323CD00C35AAF /* evaluateReversePolishNotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = evaluateReversePolishNotation.swift; sourceTree = "<group>"; };
+		2434FA9126A32E6700C35AAF /* findFirstAndLastPositionOfElementInSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = findFirstAndLastPositionOfElementInSortedArray.swift; sourceTree = "<group>"; };
 		24580C982683C9BB0065BA52 /* LeetCodeTraining */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCodeTraining; sourceTree = BUILT_PRODUCTS_DIR; };
 		24580C9B2683C9BB0065BA52 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		24580CA42683CB1B0065BA52 /* twoSum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = twoSum.cpp; sourceTree = "<group>"; };
@@ -139,6 +141,7 @@
 				2434FA8B26A0903000C35AAF /* simplifyPath.swift */,
 				2434FA8D26A09E6400C35AAF /* summaryRanges.swift */,
 				2434FA8F26A323CD00C35AAF /* evaluateReversePolishNotation.swift */,
+				2434FA9126A32E6700C35AAF /* findFirstAndLastPositionOfElementInSortedArray.swift */,
 			);
 			path = LeetCodeTraining;
 			sourceTree = "<group>";
@@ -203,6 +206,7 @@
 				24580CC9269AFF8B0065BA52 /* squaresOfASortedArray.swift in Sources */,
 				24580CC32698D3C10065BA52 /* symmetricTree.cpp in Sources */,
 				24580CCB269B08C50065BA52 /* intersectionofTwoArraysII.swift in Sources */,
+				2434FA9226A32E6700C35AAF /* findFirstAndLastPositionOfElementInSortedArray.swift in Sources */,
 				24580CD2269B1A6F0065BA52 /* palindromeLinkedList.swift in Sources */,
 				24580CD6269CA0BC0065BA52 /* groupAnagrams.swift in Sources */,
 				24580CD8269CD75D0065BA52 /* longestSubarrayofAfterDeletingOneElement.swift in Sources */,
