@@ -1,6 +1,5 @@
 import Foundation
 
-
 func summaryRanges(_ nums: [Int]) -> [String] {
     guard !nums.isEmpty else {
         return []
