@@ -40,7 +40,6 @@ func searchRange(_ nums: [Int], _ target: Int) -> [Int] {
    
 }
 
-
 struct pair<TYPE1, TYPE2>{
     var first: TYPE1?
     var second: TYPE2?

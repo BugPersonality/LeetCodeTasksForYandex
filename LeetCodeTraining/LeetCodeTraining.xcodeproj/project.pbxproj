@@ -15,6 +15,7 @@
 		2434FA8E26A09E6400C35AAF /* summaryRanges.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2434FA8D26A09E6400C35AAF /* summaryRanges.swift */; };
 		2434FA9026A323CD00C35AAF /* evaluateReversePolishNotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2434FA8F26A323CD00C35AAF /* evaluateReversePolishNotation.swift */; };
 		2434FA9226A32E6700C35AAF /* findFirstAndLastPositionOfElementInSortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2434FA9126A32E6700C35AAF /* findFirstAndLastPositionOfElementInSortedArray.swift */; };
+		2434FA9526A4513900C35AAF /* maximalRectangle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2434FA9326A4513900C35AAF /* maximalRectangle.cpp */; };
 		24580C9C2683C9BB0065BA52 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24580C9B2683C9BB0065BA52 /* main.cpp */; };
 		24580CA62683CB1B0065BA52 /* twoSum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24580CA42683CB1B0065BA52 /* twoSum.cpp */; };
 		24580CAC269754B70065BA52 /* stringCompression.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 24580CAA269754B70065BA52 /* stringCompression.cpp */; };
@@ -59,6 +60,7 @@
 		2434FA8D26A09E6400C35AAF /* summaryRanges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = summaryRanges.swift; sourceTree = "<group>"; };
 		2434FA8F26A323CD00C35AAF /* evaluateReversePolishNotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = evaluateReversePolishNotation.swift; sourceTree = "<group>"; };
 		2434FA9126A32E6700C35AAF /* findFirstAndLastPositionOfElementInSortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = findFirstAndLastPositionOfElementInSortedArray.swift; sourceTree = "<group>"; };
+		2434FA9326A4513900C35AAF /* maximalRectangle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = maximalRectangle.cpp; sourceTree = "<group>"; };
 		24580C982683C9BB0065BA52 /* LeetCodeTraining */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCodeTraining; sourceTree = BUILT_PRODUCTS_DIR; };
 		24580C9B2683C9BB0065BA52 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		24580CA42683CB1B0065BA52 /* twoSum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = twoSum.cpp; sourceTree = "<group>"; };
@@ -142,6 +144,7 @@
 				2434FA8D26A09E6400C35AAF /* summaryRanges.swift */,
 				2434FA8F26A323CD00C35AAF /* evaluateReversePolishNotation.swift */,
 				2434FA9126A32E6700C35AAF /* findFirstAndLastPositionOfElementInSortedArray.swift */,
+				2434FA9326A4513900C35AAF /* maximalRectangle.cpp */,
 			);
 			path = LeetCodeTraining;
 			sourceTree = "<group>";
@@ -214,6 +217,7 @@
 				24580CD4269C68C40065BA52 /* rotateImage.swift in Sources */,
 				24580CA62683CB1B0065BA52 /* twoSum.cpp in Sources */,
 				24580CBE2698CA780065BA52 /* mergeTwoSortedLists.cpp in Sources */,
+				2434FA9526A4513900C35AAF /* maximalRectangle.cpp in Sources */,
 				2434FA8A26A08C4300C35AAF /* productOfArrayExceptSelf.swift in Sources */,
 				24580CC7269AEFBD0065BA52 /* isSubsequence.swift in Sources */,
 				24580CAE26975C5B0065BA52 /* reverseLinkedList.swift in Sources */,
