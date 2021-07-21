@@ -37,6 +37,7 @@
 		24580CD4269C68C40065BA52 /* rotateImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24580CD3269C68C40065BA52 /* rotateImage.swift */; };
 		24580CD6269CA0BC0065BA52 /* groupAnagrams.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24580CD5269CA0BC0065BA52 /* groupAnagrams.swift */; };
 		24580CD8269CD75D0065BA52 /* longestSubarrayofAfterDeletingOneElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24580CD7269CD75D0065BA52 /* longestSubarrayofAfterDeletingOneElement.swift */; };
+		245D3B4126A869C600D71748 /* removeNthNodeFromEndofList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 245D3B4026A869C600D71748 /* removeNthNodeFromEndofList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -83,6 +84,7 @@
 		24580CD3269C68C40065BA52 /* rotateImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rotateImage.swift; sourceTree = "<group>"; };
 		24580CD5269CA0BC0065BA52 /* groupAnagrams.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = groupAnagrams.swift; sourceTree = "<group>"; };
 		24580CD7269CD75D0065BA52 /* longestSubarrayofAfterDeletingOneElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = longestSubarrayofAfterDeletingOneElement.swift; sourceTree = "<group>"; };
+		245D3B4026A869C600D71748 /* removeNthNodeFromEndofList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = removeNthNodeFromEndofList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -145,6 +147,7 @@
 				2434FA8F26A323CD00C35AAF /* evaluateReversePolishNotation.swift */,
 				2434FA9126A32E6700C35AAF /* findFirstAndLastPositionOfElementInSortedArray.swift */,
 				2434FA9326A4513900C35AAF /* maximalRectangle.cpp */,
+				245D3B4026A869C600D71748 /* removeNthNodeFromEndofList.swift */,
 			);
 			path = LeetCodeTraining;
 			sourceTree = "<group>";
@@ -206,6 +209,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				245D3B4126A869C600D71748 /* removeNthNodeFromEndofList.swift in Sources */,
 				24580CC9269AFF8B0065BA52 /* squaresOfASortedArray.swift in Sources */,
 				24580CC32698D3C10065BA52 /* symmetricTree.cpp in Sources */,
 				24580CCB269B08C50065BA52 /* intersectionofTwoArraysII.swift in Sources */,
