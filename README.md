@@ -17,7 +17,7 @@
 | &#9745; | 560  | [subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/) |   **Medium**   |  [Source Code](/LeetCodeTraining/subarraySumEqualsK.swift)   | Swift |
 | &#9745; | 380  | [insert delete getrandom o1](https://leetcode.com/problems/insert-delete-getrandom-o1/) |   **Medium**   | [Source Code](/LeetCodeTraining/LeetCodeTraining/insertDeleteGetRandomO1.swift) | Swift |
 | &#9745; |  1   |      [two sum](https://leetcode.com/problems/two-sum/)       |    **Easy**    | [Source Code](/LeetCodeTraining/LeetCodeTraining/twoSum.cpp) | c++   |
-| &#9744; |  23  | [merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/) |    **Hard**    |                           **nill**                           |       |
+| &#9745; |  23  | [merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/) |    **Hard**    | [Source Code](/LeetCodeTraining/LeetCodeTraining/mergeKSortedLists.swift) | Swift |
 | &#9744; | 567  | [permutation in string](https://leetcode.com/problems/permutation-in-string/) |   **Medium**   |                           **nill**                           |       |
 | &#9744; |  56  | [merge intervals](https://leetcode.com/problems/merge-intervals/) |   **Medium**   |                           **nill**                           |       |
 | &#9745; | 933  | [number of recent calls](https://leetcode.com/problems/number-of-recent-calls/) |    **Easy**    | [Source Code](/LeetCodeTraining/LeetCodeTraining/numberOfRecentCalls.cpp) | c++   |
