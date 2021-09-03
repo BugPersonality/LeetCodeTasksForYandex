@@ -40,6 +40,8 @@
 		245D3B4126A869C600D71748 /* removeNthNodeFromEndofList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 245D3B4026A869C600D71748 /* removeNthNodeFromEndofList.swift */; };
 		245D3B4326A997FC00D71748 /* numberOfIslands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 245D3B4226A997FC00D71748 /* numberOfIslands.swift */; };
 		245D3B4526A9A4BD00D71748 /* mergeKSortedLists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 245D3B4426A9A4BD00D71748 /* mergeKSortedLists.swift */; };
+		245D3B4726A9A97800D71748 /* mergeIntervals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 245D3B4626A9A97800D71748 /* mergeIntervals.swift */; };
+		24EC3A7326E2310A007AC8DC /* SpiralMatrixII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24EC3A7226E2310A007AC8DC /* SpiralMatrixII.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -89,6 +91,8 @@
 		245D3B4026A869C600D71748 /* removeNthNodeFromEndofList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = removeNthNodeFromEndofList.swift; sourceTree = "<group>"; };
 		245D3B4226A997FC00D71748 /* numberOfIslands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = numberOfIslands.swift; sourceTree = "<group>"; };
 		245D3B4426A9A4BD00D71748 /* mergeKSortedLists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mergeKSortedLists.swift; sourceTree = "<group>"; };
+		245D3B4626A9A97800D71748 /* mergeIntervals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mergeIntervals.swift; sourceTree = "<group>"; };
+		24EC3A7226E2310A007AC8DC /* SpiralMatrixII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpiralMatrixII.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -154,6 +158,8 @@
 				245D3B4026A869C600D71748 /* removeNthNodeFromEndofList.swift */,
 				245D3B4226A997FC00D71748 /* numberOfIslands.swift */,
 				245D3B4426A9A4BD00D71748 /* mergeKSortedLists.swift */,
+				245D3B4626A9A97800D71748 /* mergeIntervals.swift */,
+				24EC3A7226E2310A007AC8DC /* SpiralMatrixII.swift */,
 			);
 			path = LeetCodeTraining;
 			sourceTree = "<group>";
@@ -227,9 +233,11 @@
 				24580CD0269B13C20065BA52 /* implementStrStr.cpp in Sources */,
 				24580CD4269C68C40065BA52 /* rotateImage.swift in Sources */,
 				24580CA62683CB1B0065BA52 /* twoSum.cpp in Sources */,
+				24EC3A7326E2310A007AC8DC /* SpiralMatrixII.swift in Sources */,
 				24580CBE2698CA780065BA52 /* mergeTwoSortedLists.cpp in Sources */,
 				2434FA9526A4513900C35AAF /* maximalRectangle.cpp in Sources */,
 				2434FA8A26A08C4300C35AAF /* productOfArrayExceptSelf.swift in Sources */,
+				245D3B4726A9A97800D71748 /* mergeIntervals.swift in Sources */,
 				24580CC7269AEFBD0065BA52 /* isSubsequence.swift in Sources */,
 				24580CAE26975C5B0065BA52 /* reverseLinkedList.swift in Sources */,
 				2434FA8C26A0903000C35AAF /* simplifyPath.swift in Sources */,
