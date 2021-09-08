@@ -2,6 +2,12 @@
 
 ### Danil Dubov 2021 
 
+<div class="progress progress-100plus">
+    <div class="progress-bar" style="width:100.00%">
+        <p class="progress-label">90%</p>
+    </div>
+</div>
+
 | Status  |  #   |                            Title                             | **Difficulty** |                           Solution                           | Lang  |
 | :-----: | :--: | :----------------------------------------------------------: | :------------: | :----------------------------------------------------------: | ----- |
 | &#9745; | 228  | [summary ranges](https://leetcode.com/problems/summary-ranges/) |    **Easy**    | [Source Code](/LeetCodeTraining/LeetCodeTraining/summaryRanges.swift) | Swift |
